@@ -1,7 +1,7 @@
 # front end web dev style guides
 html, css, and javascript style guides popular in the web development community
 
-### html
+## html
 | guide  | ★ |
 | --- | :---: |
 | [Google](https://google.github.io/styleguide/htmlcssguide.html) | [9,000](https://github.com/google/styleguide) |
@@ -12,7 +12,7 @@ html, css, and javascript style guides popular in the web development community
 | [W3Schools](https://www.w3schools.com/html/html5_syntax.asp) |  |
 
 
-### css
+## css
 | guide  | ★ |
 | --- | :---: |
 | [Google](https://google.github.io/styleguide/htmlcssguide.html) | [9,000](https://github.com/google/styleguide) |
@@ -29,7 +29,7 @@ html, css, and javascript style guides popular in the web development community
 | [WordPress](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/) |  |
 
 
-### javascript
+## javascript
 | guide  | ★ |
 | --- | :---: |
 | [Airbnb](https://github.com/airbnb/javascript) | 50,000 |
